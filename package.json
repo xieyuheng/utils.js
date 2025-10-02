@@ -1,0 +1,25 @@
+{
+  "name": "@xieyuheng/utils.js",
+  "version": "0.1.0",
+  "repository": "github:xieyuheng/utils.js",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "main": "./lib/index.js",
+  "files": [
+    "src",
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "test:node": "node --test lib/**/*.test.js",
+    "test": "npm run test:node",
+    "format": "prettier src --write"
+  },
+  "devDependencies": {
+    "@types/node": "^24.6.1",
+    "prettier": "^3.6.2",
+    "prettier-plugin-organize-imports": "^4.3.0",
+    "typescript": "^5.9.3"
+  }
+}
