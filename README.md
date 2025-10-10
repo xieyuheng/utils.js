@@ -1,6 +1,6 @@
-# utils.js
+# helper.js
 
-My utils for JavaScript that should be used by copy and paste.
+My helper modules for JavaScript to be used by copy and paste.
 
 ## Development
 

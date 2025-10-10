@@ -1,7 +1,7 @@
 {
-  "name": "@xieyuheng/utils.js",
+  "name": "@xieyuheng/helper.js",
   "version": "0.1.0",
-  "repository": "github:xieyuheng/utils.js",
+  "repository": "github:xieyuheng/helper.js",
   "license": "GPL-3.0-or-later",
   "type": "module",
   "main": "./lib/index.js",
