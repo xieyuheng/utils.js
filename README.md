@@ -1,6 +1,6 @@
 # helper.js
 
-My helper modules for JavaScript to be used by copy and paste.
+My helper modules for JavaScript.
 
 ## Development
 
