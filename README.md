@@ -1,4 +1,4 @@
-# x-helpers.js
+# helpers.js
 
 My helper modules for JavaScript.
 

@@ -1,7 +1,7 @@
 {
-  "name": "@xieyuheng/x-helpers.js",
+  "name": "@xieyuheng/helpers.js",
   "version": "0.1.1",
-  "repository": "github:xieyuheng/x-helpers.js",
+  "repository": "github:xieyuheng/helpers.js",
   "license": "GPL-3.0-or-later",
   "type": "module",
   "main": "./lib/index.js",
@@ -16,7 +16,7 @@
     "format": "prettier src --write"
   },
   "devDependencies": {
-    "@types/node": "^24.10.0",
+    "@types/node": "^24.10.1",
     "prettier": "^3.6.2",
     "prettier-plugin-organize-imports": "^4.3.0",
     "typescript": "^5.9.3"
